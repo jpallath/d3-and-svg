@@ -37,6 +37,10 @@ form > button:hover {
   fill: #ffc800;
 }
 
-.new {
+.new rect {
   fill: #00ff00;
+}
+
+.new text{
+  font-size: 1.5em;
 }
